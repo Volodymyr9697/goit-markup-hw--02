@@ -20,16 +20,8 @@ ul, ol {
 }
 
 .logo-part {
-    color: #2e2f42;
-}
-.logo:hover,
-.logo:focus {
-    color: #404bbf;
-}
-.logo-part:hover,
-.logo-part:focus {
-    color: #404bbf;
-}
+    color: #2e2f42;}
+
 
 .nav-link {
     font-weight: 500;
